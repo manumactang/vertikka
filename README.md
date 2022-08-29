@@ -1,4 +1,4 @@
-# vertikka
+# Vertikka
 Anhang und Zusätzliches Material für den VertiKKA Endbericht - TUC Soziologische Aspekte
 
 - Anhang: Fragebogen Wording, Informationen über Theoriemodell und Datenerhebung
